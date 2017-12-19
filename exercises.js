@@ -91,7 +91,7 @@ function timeConvert(str){
 
  function repeatString(str, times){
      if(typeof str !== typeof "" && typeof time !== typeof 0){
-         return null;
+         return null; 
      }else{
          var result = "";
          for(var i = 0; i < times; i++){
